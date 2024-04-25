@@ -1,0 +1,7 @@
+E:\Projects\Practice\C++_PY\2048#\bin\Debug\2048#.exe.config
+E:\Projects\Practice\C++_PY\2048#\bin\Debug\2048#.exe
+E:\Projects\Practice\C++_PY\2048#\bin\Debug\2048#.pdb
+E:\Projects\Practice\C++_PY\2048#\obj\Debug\2048#.csproj.AssemblyReference.cache
+E:\Projects\Practice\C++_PY\2048#\obj\Debug\2048#.csproj.CoreCompileInputs.cache
+E:\Projects\Practice\C++_PY\2048#\obj\Debug\2048#.exe
+E:\Projects\Practice\C++_PY\2048#\obj\Debug\2048#.pdb

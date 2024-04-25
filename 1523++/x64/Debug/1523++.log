@@ -1,0 +1,3 @@
+﻿  1523++.cpp
+E:\Projects\Practice\C++_PY\1523++\1523++.cpp(8,17): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  1523++.vcxproj -> E:\Projects\Practice\C++_PY\x64\Debug\1523++.exe

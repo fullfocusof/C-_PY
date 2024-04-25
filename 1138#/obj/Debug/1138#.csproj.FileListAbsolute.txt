@@ -1,0 +1,7 @@
+E:\Projects\Practice\C++_PY\1138#\bin\Debug\1138#.exe.config
+E:\Projects\Practice\C++_PY\1138#\bin\Debug\1138#.exe
+E:\Projects\Practice\C++_PY\1138#\bin\Debug\1138#.pdb
+E:\Projects\Practice\C++_PY\1138#\obj\Debug\1138#.csproj.AssemblyReference.cache
+E:\Projects\Practice\C++_PY\1138#\obj\Debug\1138#.csproj.CoreCompileInputs.cache
+E:\Projects\Practice\C++_PY\1138#\obj\Debug\1138#.exe
+E:\Projects\Practice\C++_PY\1138#\obj\Debug\1138#.pdb

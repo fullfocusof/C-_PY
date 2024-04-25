@@ -1,0 +1,5 @@
+﻿  1558++.cpp
+E:\Projects\Practice\C++_PY\1558++\1558++.cpp(9,26): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\Practice\C++_PY\1558++\1558++.cpp(18,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\Projects\Practice\C++_PY\1558++\1558++.cpp(19,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  1558++.vcxproj -> E:\Projects\Practice\C++_PY\x64\Debug\1558++.exe
